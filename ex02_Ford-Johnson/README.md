@@ -9,10 +9,10 @@ The Ford-Johnson algorithm (also known as merge-insertion sort) is a sorting alg
 
 ### 🧩 Technical Skills
 
-C++98 · STL containers (`std::vector`, `std::deque`) · Ford–Johnson merge-insertion sort · Performance benchmarking · Time complexity analysis · Large dataset handling
+C++ (98 standard) · STL containers (`std::vector`, `std::deque`) · Ford–Johnson merge-insertion sort · Performance benchmarking · Time complexity analysis · Large dataset handling
 
 
-### Something interesting about this project
+### Something interesting about this project ✨
 
 I like because it ask total focus, visualisation of sorting mechanics feels like magic, hard and challenging, dig into, 
 

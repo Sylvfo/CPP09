@@ -4,17 +4,16 @@ The goal of this exercise is to **evaluate mathematical expressions written in R
 
 Reverse Polish Notation is a mathematical notation where operators follow their operands, eliminating the need for parentheses
 
-### Technical Skills
+### 🧩 Technical Skills
 
-- C++ (98 standard)
-- Stack data structure (std::stack)
-- String parsing and tokenization
-- Expression evaluation algorithms
-- Error handling and input validation
-- Operator precedence (implicit in RPN)
+C++ (98 standard) · Stack data structure (std::stack) · String parsing and tokenization · Expression evaluation algorithms · Error handling and input validation · Operator precedence (implicit in RPN)
 
+### Something interesting about this project ✨
+Thinking about math in a different way, close to how a computer compute... on a stack
+short but challenging, elegant
+algo 
 
-### Compilation & Usage
+### 🖥️ Compilation & Usage
 
 - **Supported operators:** `+`, `-`, `*`, `/`
 - **Input:** Single-digit positive integers (0-9) separated by spaces
